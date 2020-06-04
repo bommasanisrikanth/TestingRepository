@@ -1,3 +1,2 @@
-Hi git This is the first file modification
 
 this is the second line modification
